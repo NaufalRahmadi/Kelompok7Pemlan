@@ -1,2 +1,1 @@
-# Kelompok7Pemlan
-Kelompok 7 pemlan
+# SISTEM MANAJEMEN INVENTARIS BARANG 

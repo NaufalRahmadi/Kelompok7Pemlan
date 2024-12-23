@@ -1,0 +1,12 @@
+Insert: Sat Dec 21 20:55:13 2024
+ | ID: 101, Nama: Komputer, Stok: 5, Lokasi Penyimpanan: A001
+Insert: Sat Dec 21 20:56:00 2024
+ | ID: 103, Nama: Kursi, Stok: 20, Lokasi Penyimpanan: B001
+Insert: Sat Dec 21 20:56:20 2024
+ | ID: 104, Nama: Proyektor, Stok: 10, Lokasi Penyimpanan: A002
+Delete: Sat Dec 21 20:57:10 2024
+ | ID: 101, Nama: A, Stok: 102, Lokasi Penyimpanan: B
+Insert: Sat Dec 21 22:14:44 2024
+ | ID: 105, Nama: Meja, Stok: 7, Lokasi Penyimpanan: B001
+Delete: Sat Dec 21 22:14:56 2024
+ | ID: 105, Nama: Meja, Stok: 7, Lokasi Penyimpanan: B001
